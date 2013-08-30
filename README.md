@@ -1,4 +1,4 @@
-MacBLAS
+CppBLAS
 =======
 
-Implementation of a few Basic Linear Algebra Subprograms (BLAS) Fortran routines in C++.
+C++ wrapper for common BLAS (Basic Linear Algebra Subprograms) routines which are written in Fortran.
