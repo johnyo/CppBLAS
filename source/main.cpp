@@ -1,11 +1,11 @@
 /*
-Example file for how to use CppBLAS
+Demo project to illustrate the use of CppBLAS
 */
 
 #include <iostream>
 #include "../include/CppBLAS.h"
 
-// I will demo on matrices of dimension 3
+// Demo on matrices of dimension 3
 #define SIZE 3
 
 using namespace std;

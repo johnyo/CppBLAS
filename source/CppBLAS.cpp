@@ -6,7 +6,7 @@ void daxpy(int n, double a, double *A, int incA, double *B, int incB) {
 }
 
 // C++ function to call the fortran ddot routine
-double ddot( int N, double *a, int inca, double *b, int incb ){
+double ddot( int N, double *a, int inca, double *b, int incb){
 	return ddot_( &N, a, &inca, b, &incb );
 }
 
